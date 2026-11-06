@@ -1,0 +1,6 @@
+# Задание 3 (Дан кортеж чисел. Выведите его длину, сумму, минимум и максимум)
+numbers = (4, 8, 1, 9, 3)
+print(len(numbers))
+print(sum(numbers))
+print(min(numbers))
+print(max(numbers))
